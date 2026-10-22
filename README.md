@@ -1,12 +1,12 @@
-# CutList
+# Scene Order
 
-CutList helps your AI assistant plan a video edit before you open your editing program. You describe the video and paste your notes about which parts of which clips you want. CutList turns them into a numbered cut list: each clip, where it starts and ends, how long it runs, and where it lands in the finished video. It adds up the total length, tells you if you are over or under your target, and catches timecode mistakes such as a frame number that cannot exist. Why would you want this? Editing goes faster when you know your cuts in advance, and a plan on paper is easy to change. It's free.
+Scene Order helps your AI assistant plan a video edit before you open your editing program. You describe the video and paste your notes about which parts of which clips you want. Scene Order turns them into a numbered cut list: each clip, where it starts and ends, how long it runs, and where it lands in the finished video. It adds up the total length, tells you if you are over or under your target, and catches timecode mistakes such as a frame number that cannot exist. Why would you want this? Editing goes faster when you know your cuts in advance, and a plan on paper is easy to change. It's free.
 
-![CutList logo](assets/logo.png)
+![Scene Order logo](assets/logo.png)
 
 ## Project status: done, pending, uncertain
 **Done**
-- 2026-10-22: v1.0.0 built and pushed to GitHub. Local tests: manifest valid JSON and valid against Cursor's plugin schema, skill and rule front matter valid (`tests/check_frontmatter.py`), and `tests/test_cutlist.py` confirms the timecode math round-trips, the example cut list totals exactly 30 seconds at 24 fps, and invalid rows are reported.
+- 2026-10-22: v1.0.0 built and pushed to GitHub. Local tests: manifest valid JSON and valid against Cursor's plugin schema, skill and rule front matter valid (`tests/check_frontmatter.py`), and `tests/test_sceneorder.py` confirms the timecode math round-trips, the example cut list totals exactly 30 seconds at 24 fps, and invalid rows are reported.
 
 **Pending**
 - Not tested inside Cursor or Grok yet (no in-app test has been done).
@@ -19,20 +19,20 @@ CutList helps your AI assistant plan a video edit before you open your editing p
 3. Then ask: "Check my cut list timecodes at 24 fps."
 
 ## Installation
-Install from this repository: https://github.com/OmnipotentCEOxJenny/cutlist (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). Free. No API keys, no accounts, no paid services. The optional checker needs only Python 3 (standard library).
+Install from this repository: https://github.com/OmnipotentCEOxJenny/sceneorder (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). Free. No API keys, no accounts, no paid services. The optional checker needs only Python 3 (standard library).
 
 ## Testing
 1. `python3 tests/check_frontmatter.py` (needs PyYAML).
-2. `python3 tests/test_cutlist.py`. Expected: PASS.
+2. `python3 tests/test_sceneorder.py`. Expected: PASS.
 3. Compare with `examples/README.md`.
 
 ## Search keywords
-CutList, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode, cuts, clips, footage, trim, RoughCut, assembly, sequence, scenes, shots, ShotList, runtime, frames, FrameRate, fps, InPoint, OutPoint, BRoll, soundbites, interview, montage, pacing, storyboard, vlog, filmmaking, JumpCut, promo, reels, cutaways, ResolveUsers, EditPlan, transitions, subclips. The full list with plain-word meanings is in [keywords.md](keywords.md).
+Scene Order, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode, cuts, clips, footage, trim, RoughCut, assembly, sequence, scenes, shots, ShotList, runtime, frames, FrameRate, fps, InPoint, OutPoint, BRoll, soundbites, interview, montage, pacing, storyboard, vlog, filmmaking, JumpCut, promo, reels, cutaways, ResolveUsers, EditPlan, transitions, subclips. The full list with plain-word meanings is in [keywords.md](keywords.md).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
 - Builder: Jenny Echo
-- Editing method informed by the free official guide Jenny Echo studied in Course 7: Blackmagic Design, *The Beginner's Guide to DaVinci Resolve 20* (marking In and Out points, overwrite, insert and append edits, cutaways and pacing). Summarized in our own words. CutList is independent and not endorsed by Blackmagic Design. DaVinci Resolve is a trademark of Blackmagic Design.
+- Editing method informed by the free official guide Jenny Echo studied in Course 7: Blackmagic Design, *The Beginner's Guide to DaVinci Resolve 20* (marking In and Out points, overwrite, insert and append edits, cutaways and pacing). Summarized in our own words. Scene Order is independent and not endorsed by Blackmagic Design. DaVinci Resolve is a trademark of Blackmagic Design.
 
 ## Rob Domaine's four pillars
 1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
@@ -41,9 +41,9 @@ CutList, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode, c
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Components
-- `skills/cutlist-plan`: plan the edit as a timed cut list.
-- `skills/cutlist-check`: check timecodes, runtime, story and pacing.
-- `scripts/cutlist.py`: optional timecode and runtime checker (standard library only).
+- `skills/sceneorder-plan`: plan the edit as a timed cut list.
+- `skills/sceneorder-check`: check timecodes, runtime, story and pacing.
+- `scripts/sceneorder.py`: optional timecode and runtime checker (standard library only).
 - `examples/`: a 30-second promo cut list.
 - `tests/`: front-matter check and functional timecode test.
 - `rules/pillars-and-scope.mdc`: the pillars and scope.

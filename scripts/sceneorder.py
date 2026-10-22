@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""CutList timecode and cut-list checker (standard library only).
-Usage: python3 scripts/cutlist.py CUTS.csv [--fps 24] [--target 00:01:00:00]
+"""Scene Order timecode and cut-list checker (standard library only).
+Usage: python3 scripts/sceneorder.py CUTS.csv [--fps 24] [--target 00:01:00:00]
 CUTS.csv columns: clip,in,out,note   (timecodes HH:MM:SS:FF; frames count from 0 to fps-1)
 Prints a numbered cut list with each cut's duration and where it lands on the timeline,
 the total runtime, and problems: bad timecodes, frames >= fps, out not after in,

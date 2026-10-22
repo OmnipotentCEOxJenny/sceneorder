@@ -3,7 +3,7 @@
 `promo-cuts.csv` plans a 30-second promo in the style of the interview-and-cutaway rough cut taught in Lessons 1-3 of the free DaVinci Resolve Beginner's Guide (clip names are illustrative). Run:
 
 ```
-$ python3 scripts/cutlist.py examples/promo-cuts.csv --fps 24 --target 00:00:30:00
+$ python3 scripts/sceneorder.py examples/promo-cuts.csv --fps 24 --target 00:00:30:00
 Cut list (24 fps, non-drop-frame)
 | # | Clip | Source in | Source out | Duration | Timeline in | Timeline out | Note |
 |---|---|---|---|---|---|---|---|

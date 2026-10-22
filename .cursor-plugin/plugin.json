@@ -1,18 +1,18 @@
 {
-  "name": "cutlist",
-  "displayName": "CutList",
-  "version": "1.0.0",
+  "name": "sceneorder",
+  "displayName": "Scene Order",
+  "version": "1.0.1",
   "description": "Free helper that lets your AI assistant plan a video edit: it turns your notes into a timed list of cuts, adds up the total length, and catches timecode mistakes before you start editing.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
   },
   "publisher": "Omnipotent Media LLC",
-  "homepage": "https://github.com/OmnipotentCEOxJenny/cutlist",
-  "repository": "https://github.com/OmnipotentCEOxJenny/cutlist",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/sceneorder",
+  "repository": "https://github.com/OmnipotentCEOxJenny/sceneorder",
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
-    "CutList",
+    "SceneOrder",
     "JennyEcho",
     "OmnipotentCeo",
     "video",

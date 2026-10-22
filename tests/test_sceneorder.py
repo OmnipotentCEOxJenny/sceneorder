@@ -4,7 +4,7 @@ and bad rows (frame 24 at 24 fps, out before in) are reported."""
 import pathlib, sys, csv, io
 root = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(root / "scripts"))
-import cutlist as c
+import sceneorder as c
 ok = c.tc_to_frames("00:00:01:00", 24) == 24 and c.frames_to_tc(c.tc_to_frames("01:02:03:04", 30), 30) == "01:02:03:04"
 rows = list(csv.DictReader(open(root / "examples/promo-cuts.csv", encoding="utf-8")))
 cuts, total, probs = c.build(rows, 24)

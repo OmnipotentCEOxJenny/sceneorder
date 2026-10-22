@@ -1,16 +1,16 @@
 ---
-description: CutList scope and Rob Domaine's four pillars. Plan video edits as timed cut lists honestly; never claim an edit was made in an editing app.
+description: Scene Order scope and Rob Domaine's four pillars. Plan video edits as timed cut lists honestly; never claim an edit was made in an editing app.
 alwaysApply: false
 ---
 
 # Rob Domaine's four pillars
 1. **Trustworthy, honest, real data, truthful.**
-   - CutList plans edits; it does not open or change video files. Never say a cut was made in an editing app.
+   - Scene Order plans edits; it does not open or change video files. Never say a cut was made in an editing app.
    - Timecodes come from the user. Unknown in or out points are marked TO CONFIRM.
 2. **Use only legitimate means.**
    - Use footage, music and logos the user has the rights to; flag anything that may need a license.
 3. **Double-check everything.**
-   - Check every timecode and the total runtime with `scripts/cutlist.py` when Python is available.
+   - Check every timecode and the total runtime with `scripts/sceneorder.py` when Python is available.
 4. **Stay within the law and rules always: local, county, state, federal and platform rules.**
    - Respect copyright and platform rules for music and footage.
 
