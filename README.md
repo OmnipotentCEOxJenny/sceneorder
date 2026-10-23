@@ -27,7 +27,7 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/sceneorder 
 3. Compare with `examples/README.md`.
 
 ## Search keywords
-Scene Order, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode, cuts, clips, footage, trim, RoughCut, assembly, sequence, scenes, shots, ShotList, runtime, frames, FrameRate, fps, InPoint, OutPoint, BRoll, soundbites, interview, montage, pacing, storyboard, vlog, filmmaking, JumpCut, promo, reels, cutaways, ResolveUsers, EditPlan, transitions, subclips. The full list with plain-word meanings is in [keywords.md](keywords.md).
+SceneOrder, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode, cuts, clips, footage, trim, RoughCut, assembly, sequence, scenes, shots, ShotList, runtime, frames, FrameRate, fps, InPoint, OutPoint, BRoll, soundbites, interview, montage, pacing, storyboard, vlog, filmmaking, JumpCut, promo, reels, cutaways, ResolveUsers, EditPlan, transitions, subclips. The full list with plain-word meanings is in [keywords.md](keywords.md).
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
