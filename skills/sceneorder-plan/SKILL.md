@@ -3,7 +3,7 @@ name: sceneorder-plan
 description: Plan a video edit as a timed cut list from the user's notes, with soundbites, cutaways and a target runtime. Use when a user wants to plan an edit, make a rough cut, a shot list, a cut list or fit a video to a length.
 ---
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. **Goal and length:** what the video is for, who watches it, and the target runtime (for example 30 seconds).
 2. **Story first:** pick the soundbites or main shots that tell the story, in order. Then add cutaways (B-roll) to cover jumps and keep the pace.

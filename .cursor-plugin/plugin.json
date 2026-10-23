@@ -1,7 +1,7 @@
 {
   "name": "sceneorder",
   "displayName": "Scene Order",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Free helper that lets your AI assistant plan a video edit: it turns your notes into a timed list of cuts, adds up the total length, and catches timecode mistakes before you start editing.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"

@@ -34,19 +34,13 @@ SceneOrder, JennyEcho, OmnipotentCeo, video, splice, editor, placement, timecode
 - Builder: Jenny Echo
 - Editing method informed by the free official guide Jenny Echo studied in Course 7: Blackmagic Design, *The Beginner's Guide to DaVinci Resolve 20* (marking In and Out points, overwrite, insert and append edits, cutaways and pacing). Summarized in our own words. Scene Order is independent and not endorsed by Blackmagic Design. DaVinci Resolve is a trademark of Blackmagic Design.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: free, legitimate tools and sources only.
-3. Double-check everything: results are checked before they are called done.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/sceneorder-plan`: plan the edit as a timed cut list.
 - `skills/sceneorder-check`: check timecodes, runtime, story and pacing.
 - `scripts/sceneorder.py`: optional timecode and runtime checker (standard library only).
 - `examples/`: a 30-second promo cut list.
 - `tests/`: front-matter check and functional timecode test.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `keywords.md`: the search keyword list.
 
 ## Languages
