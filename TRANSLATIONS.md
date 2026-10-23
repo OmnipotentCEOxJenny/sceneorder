@@ -5,6 +5,8 @@
 The plugin's AI instructions tell it to answer in the user's language and keep commands, file names and code unchanged.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **Scene Order**
 
 Scene Order ayuda a tu asistente de IA a planificar un montaje de vídeo: convierte tus notas en una lista de cortes con tiempos, calcula la duración total y detecta errores de código de tiempo.
@@ -14,6 +16,8 @@ Scene Order ayuda a tu asistente de IA a planificar un montaje de vídeo: convie
 - No publicado en el marketplace.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **Scene Order**
 
 Scene Order aide votre assistant IA à préparer un montage vidéo : il transforme vos notes en liste de coupes minutée, calcule la durée totale et repère les erreurs de timecode.
@@ -23,6 +27,8 @@ Scene Order aide votre assistant IA à préparer un montage vidéo : il transfor
 - Non soumis au marketplace.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **Scene Order**
 
 O Scene Order ajuda seu assistente de IA a planejar uma edição de vídeo: transforma suas anotações em uma lista de cortes com tempos, calcula a duração total e encontra erros de timecode.
@@ -32,6 +38,8 @@ O Scene Order ajuda seu assistente de IA a planejar uma edição de vídeo: tran
 - Não enviado ao marketplace.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **Scene Order**
 
 Scene Order hilft Ihrem KI-Assistenten, einen Videoschnitt zu planen: Es macht aus Ihren Notizen eine Schnittliste mit Zeiten, berechnet die Gesamtlänge und findet Timecode-Fehler.
@@ -41,6 +49,8 @@ Scene Order hilft Ihrem KI-Assistenten, einen Videoschnitt zu planen: Es macht a
 - Nicht im Marketplace eingereicht.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **Scene Order**
 
 Scene Order aiuta il tuo assistente IA a pianificare un montaggio video: trasforma i tuoi appunti in una lista di tagli con i tempi, calcola la durata totale e trova errori di timecode.
@@ -50,6 +60,8 @@ Scene Order aiuta il tuo assistente IA a pianificare un montaggio video: trasfor
 - Non inviato al marketplace.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **Scene Order**
 
 Scene Order helpt je AI-assistent een videomontage te plannen: het maakt van je notities een knippenlijst met tijden, berekent de totale lengte en vindt timecodefouten.
@@ -59,6 +71,8 @@ Scene Order helpt je AI-assistent een videomontage te plannen: het maakt van je 
 - Niet ingediend bij de marketplace.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **Scene Order**
 
 Scene Order pomaga asystentowi AI zaplanować montaż wideo: zamienia notatki w listę cięć z czasami, liczy całkowity czas trwania i wykrywa błędy kodu czasowego.
@@ -68,6 +82,8 @@ Scene Order pomaga asystentowi AI zaplanować montaż wideo: zamienia notatki w 
 - Nie zgłoszony do marketplace.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **Scene Order**
 
 Scene Order помогает ИИ-ассистенту спланировать монтаж видео: превращает заметки в список склеек с таймкодами, считает общую длительность и находит ошибки таймкода.
@@ -77,6 +93,8 @@ Scene Order помогает ИИ-ассистенту спланировать 
 - Не отправлен в marketplace.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **Scene Order**
 
 Scene Order допомагає ШІ-асистенту спланувати монтаж відео: перетворює нотатки на список склейок із таймкодами, рахує загальну тривалість і знаходить помилки таймкоду.
@@ -86,6 +104,8 @@ Scene Order допомагає ШІ-асистенту спланувати мо
 - Не подано до marketplace.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **Scene Order**
 
 Scene Order, yapay zekâ asistanınızın bir video kurgusunu planlamasına yardım eder: notlarınızı zamanlı bir kesim listesine çevirir, toplam süreyi hesaplar ve zaman kodu hatalarını bulur.
@@ -95,6 +115,8 @@ Scene Order, yapay zekâ asistanınızın bir video kurgusunu planlamasına yard
 - Marketplace'e gönderilmedi.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **Scene Order**
 
 يساعد Scene Order مساعد الذكاء الاصطناعي على تخطيط مونتاج فيديو: يحوّل ملاحظاتك إلى قائمة قطع بتوقيتاتها، ويحسب المدة الكلية، ويكشف أخطاء الرمز الزمني.
@@ -104,6 +126,8 @@ Scene Order, yapay zekâ asistanınızın bir video kurgusunu planlamasına yard
 - لم يُقدَّم إلى السوق (marketplace).
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **Scene Order**
 
 Scene Order עוזר לעוזר הבינה המלאכותית לתכנן עריכת וידאו: הופך את ההערות שלך לרשימת חיתוכים עם זמנים, מחשב את האורך הכולל ומאתר שגיאות קוד זמן.
@@ -113,6 +137,8 @@ Scene Order עוזר לעוזר הבינה המלאכותית לתכנן ערי�
 - לא הוגש ל-marketplace.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **Scene Order**
 
 Scene Order به دستیار هوش مصنوعی کمک می‌کند تدوین ویدیو را برنامه‌ریزی کند: یادداشت‌هایتان را به فهرست برش‌ها با زمان تبدیل می‌کند، مدت کل را حساب می‌کند و خطاهای تایم‌کد را پیدا می‌کند.
@@ -122,6 +148,8 @@ Scene Order به دستیار هوش مصنوعی کمک می‌کند تدوی�
 - به marketplace ارسال نشده.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **Scene Order**
 
 Scene Order आपके AI सहायक को वीडियो एडिट की योजना बनाने में मदद करता है: आपके नोट्स को समय सहित कट-सूची में बदलता है, कुल अवधि गिनता है और टाइमकोड की गलतियाँ पकड़ता है।
@@ -131,6 +159,8 @@ Scene Order आपके AI सहायक को वीडियो एडि�
 - marketplace में जमा नहीं किया गया।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **Scene Order**
 
 Scene Order আপনার AI সহকারীকে ভিডিও এডিটের পরিকল্পনা করতে সাহায্য করে: আপনার নোটকে সময়সহ কাট-তালিকায় বদলায়, মোট সময় গোনে এবং টাইমকোডের ভুল ধরে।
@@ -140,6 +170,8 @@ Scene Order আপনার AI সহকারীকে ভিডিও এড�
 - marketplace-এ জমা দেওয়া হয়নি।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **Scene Order**
 
 Scene Order آپ کے AI اسسٹنٹ کو ویڈیو ایڈٹ کی منصوبہ بندی میں مدد دیتا ہے: آپ کے نوٹس کو وقت کے ساتھ کٹ لسٹ میں بدلتا ہے، کل دورانیہ نکالتا ہے اور ٹائم کوڈ کی غلطیاں پکڑتا ہے۔
@@ -149,6 +181,8 @@ Scene Order آپ کے AI اسسٹنٹ کو ویڈیو ایڈٹ کی منصوبہ
 - marketplace میں جمع نہیں کیا گیا۔
 
 ## 简体中文 (`zh-Hans`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **Scene Order**
 
 Scene Order 帮助你的 AI 助手规划视频剪辑：把你的笔记变成带时间码的剪辑清单，计算总时长，并找出时间码错误。
@@ -158,6 +192,8 @@ Scene Order 帮助你的 AI 助手规划视频剪辑：把你的笔记变成带�
 - 未提交到 marketplace。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **Scene Order**
 
 Scene Order は、AI アシスタントが動画編集を計画するのを手伝います。メモを時間付きのカットリストにし、全体の長さを計算し、タイムコードの誤りを見つけます。
@@ -167,6 +203,8 @@ Scene Order は、AI アシスタントが動画編集を計画するのを手�
 - marketplace には未提出です。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **Scene Order**
 
 Scene Order는 AI 도우미가 영상 편집을 계획하도록 돕습니다. 메모를 시간이 적힌 컷 목록으로 바꾸고, 전체 길이를 계산하고, 타임코드 오류를 찾아냅니다.
@@ -176,6 +214,8 @@ Scene Order는 AI 도우미가 영상 편집을 계획하도록 돕습니다. �
 - marketplace에 제출하지 않았습니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **Scene Order**
 
 Scene Order membantu asisten AI Anda merencanakan suntingan video: mengubah catatan menjadi daftar potongan dengan waktu, menghitung durasi total, dan menemukan kesalahan timecode.
@@ -185,6 +225,8 @@ Scene Order membantu asisten AI Anda merencanakan suntingan video: mengubah cata
 - Belum diajukan ke marketplace.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **Scene Order**
 
 Scene Order giúp trợ lý AI của bạn lên kế hoạch dựng video: biến ghi chú thành danh sách cắt có thời gian, tính tổng thời lượng và tìm lỗi timecode.
@@ -194,6 +236,8 @@ Scene Order giúp trợ lý AI của bạn lên kế hoạch dựng video: biế
 - Chưa gửi lên marketplace.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **Scene Order**
 
 Scene Order husaidia msaidizi wako wa AI kupanga uhariri wa video: hugeuza maelezo yako kuwa orodha ya mikato yenye muda, hukokotoa urefu wote na hugundua makosa ya timecode.
@@ -203,6 +247,8 @@ Scene Order husaidia msaidizi wako wa AI kupanga uhariri wa video: hugeuza maele
 - Haijawasilishwa kwenye marketplace.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **Scene Order**
 
 Tinutulungan ng Scene Order ang iyong AI assistant na magplano ng video edit: ginagawang listahan ng mga cut na may oras ang iyong mga tala, kinukuwenta ang kabuuang haba at hinahanap ang mga mali sa timecode.
